@@ -6,4 +6,8 @@ commit test
 Add line
 line11
 new branch line
+<<<<<<< HEAD
 new line for gui
+=======
+better late than never
+>>>>>>> first_name
